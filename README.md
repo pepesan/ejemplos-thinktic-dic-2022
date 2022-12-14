@@ -12,3 +12,5 @@ explicacion 6
 explicación 7 
 
 # Configuración
+
+Cambios en la configuracion
