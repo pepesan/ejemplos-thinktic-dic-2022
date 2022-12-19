@@ -1,6 +1,6 @@
 # ejemplos-thinktic-dic-2022
 
-Repositorio de ejemplos de Git para el Thinktic v0.0.3
+Repositorio de ejemplos de Git para el Thinktic v0.0.4
 
 # Introducción
 explicación 1
