@@ -14,3 +14,6 @@ explicación 7
 # Configuración
 
 Cambios en la configuracion
+
+# Copyleft del bueno
+
