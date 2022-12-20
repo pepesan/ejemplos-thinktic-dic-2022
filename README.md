@@ -15,5 +15,8 @@ explicación 7
 
 Cambios en la configuracion
 
+<<<<<<< HEAD
+# Claves SSH
+Prueba de claves
 # Copyleft del bueno
 
