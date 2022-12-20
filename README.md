@@ -1,6 +1,6 @@
 # ejemplos-thinktic-dic-2022
 
-Repositorio de ejemplos de Git para el Thinktic v0.0.5
+Repositorio de ejemplos de Git para el Thinktic v0.0.6
 
 # Introducción
 explicación 1
@@ -14,3 +14,9 @@ explicación 7
 # Configuración
 
 Cambios en la configuracion
+
+<<<<<<< HEAD
+# Claves SSH
+Prueba de claves
+# Copyleft del bueno
+
